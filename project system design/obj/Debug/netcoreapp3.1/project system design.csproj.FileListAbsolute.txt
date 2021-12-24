@@ -1,0 +1,26 @@
+C:\Users\DELL\source\repos\project system design\project system design\bin\Debug\netcoreapp3.1\project system design.exe
+C:\Users\DELL\source\repos\project system design\project system design\bin\Debug\netcoreapp3.1\project system design.deps.json
+C:\Users\DELL\source\repos\project system design\project system design\bin\Debug\netcoreapp3.1\project system design.runtimeconfig.json
+C:\Users\DELL\source\repos\project system design\project system design\bin\Debug\netcoreapp3.1\project system design.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\project system design\project system design\bin\Debug\netcoreapp3.1\project system design.dll
+C:\Users\DELL\source\repos\project system design\project system design\bin\Debug\netcoreapp3.1\project system design.pdb
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project system design.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project system design.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project system design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project system design.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project system design.AssemblyInfo.cs
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project system design.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project system design.dll
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project system design.pdb
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project system design.genruntimeconfig.cache
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.places.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.Properties.Resources.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.pricescs.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.Tawseel.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.Preview.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.Search.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.Login.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.admin.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.Estlam.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.Visa.resources
+C:\Users\DELL\source\repos\project system design\project system design\obj\Debug\netcoreapp3.1\project_system_design.First.resources
